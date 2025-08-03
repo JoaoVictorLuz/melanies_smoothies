@@ -1,2 +1,2 @@
 # melanies_smoothies
-This will be the web versijon of the smoothie order form
+This will be the web version of the smoothie order form
